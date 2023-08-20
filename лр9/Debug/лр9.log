@@ -1,0 +1,13 @@
+﻿  function.cpp
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(88,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(91,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(95,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(98,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(101,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\function.cpp(104,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+d:\PRVT\ШЮА\C++\лр9\лр9\main.cpp(26,23): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\main.cpp(67,23): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+d:\PRVT\ШЮА\C++\лр9\лр9\main.cpp(95,23): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  лр9.vcxproj -> D:\PRVT\ШЮА\C++\лр9\Debug\лр9.exe
